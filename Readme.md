@@ -2,7 +2,7 @@
 
 >Curiosity turns work into play. For Einstein, relativity wasn't a book full of hard stuff he had to learn for an exam. It was a mystery he was trying to solve. So it probably felt like less work to him to invent it than it would seem to someone now to learn it in a class.
 
-Paul Graham在[What You'll Wish You'd Known](paulgraham.com/hs.html)中讲了上面一段话，意思是：好奇心可以让工作变成游戏。对于爱因斯坦而言，相对论不是充满复杂概念的一本应付考试的书，而是尝试解释的一个谜团。所以对他而言可能发明相对论比其他人课堂上学这门课要容易的多。
+Paul Graham在[What You'll Wish You'd Known](http://paulgraham.com/hs.html)中讲了上面一段话，意思是：好奇心可以让工作变成游戏。对于爱因斯坦而言，相对论不是充满复杂概念的一本应付考试的书，而是尝试解释的一个谜团。所以对他而言可能发明相对论比其他人课堂上学这门课要容易的多。
 
 如果做一件事情对你来说很痛苦，很无聊，不管那是什么事情，你一定不会做好。这十有八九不是你自己的问题，而更可能是亿万年来自然选择的结果，我们的基因并不认同“愚公移山”的精神。
 
@@ -70,8 +70,6 @@ Paul Graham还讲到，学校学到的最危险的错觉是想要做成伟大的
 
 ## 参考链接
 
- - Paul Graham: [What You'll Wish You'd Known](paulgraham.com/hs.html)
- - Paul Graham: [The Lesson to Unlearn](http://paulgraham.com/lesson.html)
  - Hacker News: [College-educated workers are taking over the American factory floor](https://news.ycombinator.com/item?id=21745704)
  - Youtube: [北京深夜的漆黑角落，是中年男人仅剩的一点乐趣](https://youtu.be/6h1gF-vowM8)
  - evmn@github: [冰与火之歌和新概念英语的词汇量](https://github.com/evmn/word_frenquency)
@@ -79,3 +77,12 @@ Paul Graham还讲到，学校学到的最危险的错觉是想要做成伟大的
   - 中国营养学会： [专家解读|新版膳食指南（五）少盐少油，控糖限酒](http://dg.cnsoc.org/article/04/8a2389fd575f695101577a31ca7602d5.html)
  - [如何堵住喷子的嘴](images/bully.mp4)
  - Youtube: [How to Stop A Bully](https://youtu.be/7oKjW1OIjuw)
+
+
+## Paul Graham's Essays
+
+考虑到不论学习还是工作、健身，我都很认同Pual Graham的观点，所以我把他的博客整理成了电子书。他真的可以说是颠覆了我的三观，让我知道我真的很正常。我们生活的环境，反倒很不正常。
+
+ - What You'll Wish You'd Known
+ - Great Hackers
+ - The Lesson to Unlearn
