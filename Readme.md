@@ -1,5 +1,25 @@
 # 把你的英语用起来
 
+## 国内大多数英语老师都不是好老师
+
+![](images/Bad_Teachers.jpg)
+
+罗素曾说：
+
+>Men are born ignorant, not stupid. They are made stupid by education.
+
+翻译过来就是“人生而无知，但是并不愚蠢，是教育使人愚蠢”。
+
+在学校英语老师光盯着语法，却没有给我们大量灌输英文，这是我们长期学习效果却非常差的重要因素，如果一句话你听千百遍，你会说错吗？
+
+网络时代语言发展速度相比以前更快了，如果照着旧的标准学习，到现实生活中聊天就很尴尬，人家一猜就知道你是亚洲人(中国人)。 
+
+想想你小时候学汉语(或者你教自己孩子学汉语)，会有人不停警告你语法错了，发音错了吗？会有人对你冷嘲热讽吗？那时候往往鼓励远多于打击，父母会不停的给你重复正确的做法，而不是抓住你的一点错误，把你批斗一番，你也会因此而进步的越来越快。
+
+---
+
+忘掉学校枯燥的英语学习法是一方面，另一方面也要找到自己感兴趣的领域，研读国外相关的资料，这会让学习变得更加愉悦。
+
 >Curiosity turns work into play. For Einstein, relativity wasn't a book full of hard stuff he had to learn for an exam. It was a mystery he was trying to solve. So it probably felt like less work to him to invent it than it would seem to someone now to learn it in a class.
 
 Paul Graham在[What You'll Wish You'd Known](http://paulgraham.com/hs.html)中讲了上面一段话，意思是：好奇心可以让工作变成游戏。对于爱因斯坦而言，相对论不是充满复杂概念的一本应付考试的书，而是尝试解释的一个谜团。所以对他而言可能发明相对论比其他人课堂上学这门课要容易的多。
